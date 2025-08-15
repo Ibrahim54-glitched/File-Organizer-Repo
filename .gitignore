@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+
+# Build and distribution folders (for PyInstaller, cx_Freeze, etc.)
+build/
+dist/
+*.spec
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
+
+# App-specific files
+settings.json
+*.log
+
+# IDE/project settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
